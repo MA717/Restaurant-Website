@@ -4,4 +4,4 @@ User: can be authenticated either by OAuth or JSON Web Token,  view the menu, ad
 Only the admins have the authority to add, delete, modify dishes to the menu, and upload dishes images to the server. 
 Promotion: can be added to the dishes for discounts.
 
-purpose for this project is to demonsterate use of the REST API, Express routes , NoSQL data model, Schemas population , user authentication methods ( JSON web token , OAuth , cookies , sessions). 
+Purpose for this project is to demonsterate use of the REST API, Express routes , NoSQL data model, Schemas population , user authentication methods ( JSON web token , OAuth , cookies , sessions). 
